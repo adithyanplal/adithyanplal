@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adithyanplal
-- 👀 I’m interested in Web Dev, Mobile Apps , PWA , Web App
+- 👀 I’m interested in Web Dev, Mobile Apps , PWA , Web App ,Teaching / Sharing Knowledge
 - 🌱 I’m currently working
-- 💞️ I’m Accepting Freelance Front-End Development Projects
+- 💞️ I’m Accepting Freelance Projects
 - 📫 How to reach me www.adithyanplal.com / hello@adithyanplal.com
 
 <!---
